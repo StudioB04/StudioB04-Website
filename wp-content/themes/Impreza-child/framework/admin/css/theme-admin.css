@@ -1,0 +1,7 @@
+/* StudioB04 icon for the WP menu item */
+.menu-icon-generic.toplevel_page_us-theme-options .wp-menu-image {
+	background: url(../img/b04-logo.png) no-repeat center 6px / 22px auto !important;
+}
+.menu-icon-generic.toplevel_page_us-theme-options .wp-menu-image:before {
+	display: none;
+}
